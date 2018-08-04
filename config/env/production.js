@@ -251,7 +251,7 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     onlyAllowOrigins: [
-      'https://alfred-api-staging.herokuapp.com/',
+      'https://alfred-api-staging.herokuapp.com',
     ],
 
 
